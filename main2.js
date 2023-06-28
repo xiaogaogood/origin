@@ -16,6 +16,7 @@ function max(arr) {
         
     }
     console.log(maxcount);
+    console.log('123s');
     return maxcount
 }
 
